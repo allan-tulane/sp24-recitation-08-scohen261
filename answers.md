@@ -14,5 +14,4 @@ Place all written answers from `recitation-08.md` here for easier grading.
 
 
 
-- **2b)**  while current is not None: path.append(current) current = parents.get(current) return ''.join(path[::-1])
-
+- **2b)**  
